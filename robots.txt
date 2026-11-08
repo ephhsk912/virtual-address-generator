@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://address.aixmb.cn/sitemap.xml
+Sitemap: https://virtul.1718yqyh11.kdns.fr/sitemap.xml
